@@ -3,11 +3,26 @@ Cada aluno da 208 terá que modificar a calculadora dessa imagem (css,html e jav
 
 
 
+
+
+
 ![Calculadora-a-modificar](Calculadora-a-modificar.png)
 
 
 
+
+
+
+
+
 para essa
+
+
+
+
+
+
+
 
 
 
